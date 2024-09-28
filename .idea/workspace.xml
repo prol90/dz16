@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d95e952e-3b0a-409e-9f13-e0d4a3089778" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject40.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_project/task1/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_project/task1/templates/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_project/task1/templates/product_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_project/task1/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_project/task1/templates/task1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_project/task1/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="d95e952e-3b0a-409e-9f13-e0d4a3089778" name="Changes" comment="файл">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +88,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725276305689</updated>
     </task>
+    <task id="LOCAL-00001" summary="файл">
+      <option name="closed" value="true" />
+      <created>1727534806236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727534806236</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="файл" />
+    <option name="LAST_COMMIT_MESSAGE" value="файл" />
   </component>
 </project>

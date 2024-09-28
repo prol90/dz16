@@ -1,0 +1,13 @@
+
+
+
+
+{% block pagename %}
+Корзина
+{% endblock %}
+
+{% block content %}
+<h1>Корзина</h1>
+<p>Ваша корзина пуста.</p>
+<button onclick="window.location.href='{% url 'index' %}'">На главную</button>
+{% endblock %}

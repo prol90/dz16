@@ -1,0 +1,23 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Страница регистрации</title>
+</head>
+<body>
+    <h1>Регистрация</h1>
+    <form method="POST">
+        {% csrf_token %}
+        {{ form.as_p }}  <!-- Это отображает все поля формы -->
+        {% if error %}
+            <p style="color: red;">{{ error }}</p>
+        {% endif %}
+        {% if message %}
+            <p style="color: green;">{{ message }}</p>
+        {% endif %}
+        <button type="submit">Зарегистрироваться</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!-- UrbanDjango/templates/fourth_task/product_list.html -->
+
+
+
+<h1>Список игр</h1>
+
+<ul>
+    {% for game in games %}
+        <li>
+            <strong>{{ game.title }}</strong> | {{ game.description }}.
+            Стоимость: {{ game.cost }}
+            <button>Купить</button>
+        </li>
+    {% empty %}
+        <li>Игр нет.</li>
+    {% endfor %}
+</ul>
